@@ -1,0 +1,92 @@
+{
+ "anneal_0": {
+  "pre": 73.4,
+  "steps": 5277624,
+  "counts": {
+   "land": 9599,
+   "hover": 2452,
+   "crash": 2949
+  },
+  "first": 0.0,
+  "last": 88.0,
+  "ret_first": -122.92437000000001,
+  "ret_last": 241.89896800000002,
+  "best": 328.778,
+  "time": 368.1
+ },
+ "anneal_1": {
+  "pre": 62.6,
+  "steps": 5225962,
+  "counts": {
+   "land": 9283,
+   "hover": 2540,
+   "crash": 3177
+  },
+  "first": 0.0,
+  "last": 94.8,
+  "ret_first": -108.74395999999999,
+  "ret_last": 261.530572,
+  "best": 334.57,
+  "time": 343.0
+ },
+ "anneal_2": {
+  "pre": 44.2,
+  "steps": 5360999,
+  "counts": {
+   "land": 9305,
+   "hover": 2707,
+   "crash": 2988
+  },
+  "first": 0.0,
+  "last": 90.4,
+  "ret_first": -117.577328,
+  "ret_last": 255.139196,
+  "best": 337.517,
+  "time": 347.1
+ },
+ "control_0": {
+  "pre": 0.4,
+  "steps": 11602868,
+  "counts": {
+   "land": 235,
+   "hover": 10937,
+   "crash": 3828
+  },
+  "first": 0.0,
+  "last": 2.6,
+  "ret_first": -120.99124,
+  "ret_last": 118.85158200000001,
+  "best": 267.599,
+  "time": 804.3
+ },
+ "control_1": {
+  "pre": 3.2,
+  "steps": 12255921,
+  "counts": {
+   "land": 300,
+   "hover": 11682,
+   "crash": 3018
+  },
+  "first": 0.0,
+  "last": 2.1999999999999997,
+  "ret_first": -116.33061000000001,
+  "ret_last": 143.690614,
+  "best": 276.621,
+  "time": 836.5
+ },
+ "control_2": {
+  "pre": 1.7999999999999998,
+  "steps": 10947104,
+  "counts": {
+   "land": 319,
+   "hover": 10173,
+   "crash": 4508
+  },
+  "first": 0.0,
+  "last": 4.2,
+  "ret_first": -115.897538,
+  "ret_last": 132.72654999999997,
+  "best": 269.073,
+  "time": 756.2
+ }
+}

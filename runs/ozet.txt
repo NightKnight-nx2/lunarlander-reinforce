@@ -1,0 +1,39 @@
+==============================================================================
+ÖZET
+==============================================================================
+
+[anneal] seed-sırası 0: 15000 bölüm, toplam 5,277,624 adım, 368 sn
+  sonuç dağılımı : land 9599 (%64.0) | hover 2452 (%16.3) | crash 2949 (%19.7)
+  iniş başarısı  : ilk 500 bölüm %0.0  |  annealing bitiminden önceki 500 bölüm %73.4  |  son 500 bölüm %88.0
+  ort. getiri    : ilk 500 bölüm -122.9  ->  son 500 bölüm 241.9 | en iyi tek bölüm 328.8
+
+[anneal] seed-sırası 1: 15000 bölüm, toplam 5,225,962 adım, 343 sn
+  sonuç dağılımı : land 9283 (%61.9) | hover 2540 (%16.9) | crash 3177 (%21.2)
+  iniş başarısı  : ilk 500 bölüm %0.0  |  annealing bitiminden önceki 500 bölüm %62.6  |  son 500 bölüm %94.8
+  ort. getiri    : ilk 500 bölüm -108.7  ->  son 500 bölüm 261.5 | en iyi tek bölüm 334.6
+
+[anneal] seed-sırası 2: 15000 bölüm, toplam 5,360,999 adım, 347 sn
+  sonuç dağılımı : land 9305 (%62.0) | hover 2707 (%18.0) | crash 2988 (%19.9)
+  iniş başarısı  : ilk 500 bölüm %0.0  |  annealing bitiminden önceki 500 bölüm %44.2  |  son 500 bölüm %90.4
+  ort. getiri    : ilk 500 bölüm -117.6  ->  son 500 bölüm 255.1 | en iyi tek bölüm 337.5
+
+[control] seed-sırası 0: 15000 bölüm, toplam 11,602,868 adım, 804 sn
+  sonuç dağılımı : land 235 (%1.6) | hover 10937 (%72.9) | crash 3828 (%25.5)
+  iniş başarısı  : ilk 500 bölüm %0.0  |  annealing bitiminden önceki 500 bölüm %0.4  |  son 500 bölüm %2.6
+  ort. getiri    : ilk 500 bölüm -121.0  ->  son 500 bölüm 118.9 | en iyi tek bölüm 267.6
+
+[control] seed-sırası 1: 15000 bölüm, toplam 12,255,921 adım, 836 sn
+  sonuç dağılımı : land 300 (%2.0) | hover 11682 (%77.9) | crash 3018 (%20.1)
+  iniş başarısı  : ilk 500 bölüm %0.0  |  annealing bitiminden önceki 500 bölüm %3.2  |  son 500 bölüm %2.2
+  ort. getiri    : ilk 500 bölüm -116.3  ->  son 500 bölüm 143.7 | en iyi tek bölüm 276.6
+
+[control] seed-sırası 2: 15000 bölüm, toplam 10,947,104 adım, 756 sn
+  sonuç dağılımı : land 319 (%2.1) | hover 10173 (%67.8) | crash 4508 (%30.1)
+  iniş başarısı  : ilk 500 bölüm %0.0  |  annealing bitiminden önceki 500 bölüm %1.8  |  son 500 bölüm %4.2
+  ort. getiri    : ilk 500 bölüm -115.9  ->  son 500 bölüm 132.7 | en iyi tek bölüm 269.1
+
+------------------------------------------------------------------------------
+Annealing'li koşu, seed ortalaması (β başlangıç=0.02, bölümlerin ilk %30'unda 0'a iner):
+  annealing ÖNCESİ (bitimden önceki 500 bölüm, β>0): %60.1  ->  SONRASI (son 500 bölüm, β=0): %91.1
+Son 500 bölümde annealing'li vs kontrol (sabit β) iniş başarısı:  %91.1  vs  %3.0
+Son 500 bölüm ort. getiri:  252.9  vs  131.8
